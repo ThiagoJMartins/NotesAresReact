@@ -8,7 +8,6 @@ export default function Notes({ notes }) {
 				<Note
 					title={note.title}
 					description={note.description}
-					q
 					date={note.date}
 				/>
 			))}
