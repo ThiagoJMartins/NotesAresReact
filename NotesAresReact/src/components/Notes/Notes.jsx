@@ -1,6 +1,5 @@
 import React from "react";
 import Note from "../Note/Note";
-import "./Notes.module.css";
 
 export default function Notes({ notes }) {
 	return (
